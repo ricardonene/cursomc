@@ -5,7 +5,6 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import br.com.ricardonene.cursomc.domain.Categoria;
 import br.com.ricardonene.cursomc.domain.Cliente;
 import br.com.ricardonene.cursomc.repositories.ClienteRepository;
 import br.com.ricardonene.cursomc.services.exceptions.ObjectNotFoundException;
